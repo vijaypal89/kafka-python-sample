@@ -1,4 +1,3 @@
-from kafka.consumer import group
 import six
 
 from kafka import KafkaConsumer
